@@ -29,5 +29,6 @@ Clone the repo saucelab: https://github.com/hakamsingh90/sucelabtest.git or down
 * Can have good reports integration
 * Can have more Assert conditions
 * We can have more abstraction.
+* We can enhance for data also and user login 
 
 
